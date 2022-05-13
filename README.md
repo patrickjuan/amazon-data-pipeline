@@ -27,6 +27,7 @@ This service uses Python version 3.8. To download and install the version got to
 ### Docker
 To handle Airflow and Postgres images this service uses Docker. To download and install visit the docker page [here](https://www.docker.com/products/docker-desktop/).
 
+## Running the services
 After cloning this repository just type `make` on the root folder, the Makefile will install all dependencies that you need and build the containers.
 
 On your browser type `http://localhost:8080/` to get access to Airflow UI, the user and password is `airflow`
