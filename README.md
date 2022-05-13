@@ -15,7 +15,7 @@ This project uses Airflow to orchestrate the pipeline and a Postgres database to
 
 To build the needed containers this project uses [docker sdk python](https://github.com/docker/docker-py) to handle Airflow and Postgres images
 
-<img src="doc/amazon_pipeline_architecure.png" alt="Pipeline architecture" width="700"/>
+<img src="doc/amazon_pipeline_architecture.png" alt="Pipeline architecture" width="700"/>
 
 ## Getting started
 
